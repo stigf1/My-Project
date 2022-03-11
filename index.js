@@ -1,0 +1,8 @@
+ [Installing GO](#installing-go)
+  - [Downloading and Compiling Celestia-App](#downloading-and-compiling-celestia-app)
+  - [Setting up Network](#setting-up-network)
+  - [Running Ceslestia-App using Systemd](#running-ceslestia-app-using-systemd)
+  - [Running Celestia-App using Systemd](#running-ceslestia-app-using-systemd)
+  - [Creating a Wallet](#creating-a-wallet)
+  - [Funding a Wallet](#funding-a-wallet)
+  - [Delegating Stake to a Validator](#delegating-stake-to-a-validator)
